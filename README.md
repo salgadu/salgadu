@@ -1,4 +1,7 @@
 ## Oi! Bem vindo(a), sou Rodrigo Salgado
+
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
+##
 <div align="center">
   <a href="https://github.com/salgadu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salgadu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
