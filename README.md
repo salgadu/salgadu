@@ -8,7 +8,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rodrigo-Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-orinal.svg">
+  <img align="center" alt="Rodrigo-Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
     <img align="center" alt="Rodrigo-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
     <img align="center" alt="Rodrigo-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
