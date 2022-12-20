@@ -3,9 +3,14 @@
 <!-- ![c633c20ede82f0e0ced7d570dbe3a1f3](https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif) -->
 <div align="center">
   <a href="https://github.com/salgadu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salgadu&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salgadu&layout=compact&langs_count=7&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salgadu&show_icons=true&hide=stars&theme=react&hide_border=true& count_private=true" alt="Rodrigo Salgado" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salgadu&layout=compactheme=react&hide_border=true" alt="Rodrigo Salgado" />
 </div>
+  
+
+<!--   
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salgadu&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salgadu&layout=compact&langs_count=7&theme=light"/> -->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
