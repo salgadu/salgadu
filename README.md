@@ -23,13 +23,13 @@ Tecnologias que conheço:
 ### 📚 Aprendendo...
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img align="center" alt="Svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg">
-  <img align="center" alt="Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon@latest/icons/godot/godot-original.svg" />
+  <img align="center" alt="Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 </div>
-https://raw.githubusercontent.com/
+
 
 ### 🔮 Pensando no futuro...
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-   <img align="center" alt="Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon@latest/icons/go/go-original.svg" />
+   <img align="center" alt="GO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
 </div>
 
 ## 🔥 Chama
