@@ -1,4 +1,4 @@
-### Olá, eu sou Rodrigo 👋
+### Oi, eu sou o Rodrigo 👋
 
 Sou desenvolvedor de software e gosto de transformar boas ideias em soluções práticas, principalmente para apps mobile. Também me viro bem com web e backend.
 
