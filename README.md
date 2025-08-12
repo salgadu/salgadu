@@ -34,3 +34,7 @@ Tecnologias que conheço:
 
 ## 🔥 Chama
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salgadu/)
+
+<div align="center">
+  <img src="https://github.com/salgadu/salgadu/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
