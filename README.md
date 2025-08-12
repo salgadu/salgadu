@@ -17,9 +17,9 @@ Sou desenvolvedor de software e gosto de transformar boas ideias em soluções p
 <summary>⚡ Meus Números no GitHub</summary>
 <br>
 
-<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=salgadu&show_icons=true&theme=radical&hide_title=true" alt="GitHub stats" style="max-width: 400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salgadu&layout=compact&theme=radical" alt="Top Langs" style="max-width: 320px;" />
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=salgadu&show_icons=true&theme=radical&hide_title=true" alt="GitHub stats" style="flex: 1; min-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salgadu&layout=compact&theme=radical" alt="Top Langs" style="flex: 1; min-width: 300px;" />
 </div>
 
 </details>
