@@ -1,4 +1,3 @@
-
 ### Olá, eu sou Rodrigo 👋
 
 Sou desenvolvedor de software e gosto de transformar boas ideias em soluções práticas, principalmente para apps mobile. Também me viro bem com web e backend.
@@ -18,13 +17,24 @@ Sou desenvolvedor de software e gosto de transformar boas ideias em soluções p
 <summary>⚡ Meus Números no GitHub</summary>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salgadu&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salgadu&layout=compact&theme=radical)
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=salgadu&show_icons=true&theme=radical" alt="GitHub stats" style="max-width: 400px;" />
+  </div>
+  
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salgadu&layout=compact&theme=radical" alt="Top Langs" style="max-width: 320px;" />
+  </div>
+</div>
 
 </details>
 
 <p align="center">
   🐍 Olha a cobra! É verdade!
-  <br\>
-  <img src="https://github.com/salgadu/salgadu/blob/output/github-contribution-grid-snake.svg" alt="Animação de cobra no grid de contribuições do GitHub">
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/salgadu/salgadu/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/salgadu/salgadu/blob/output/github-contribution-grid-snake.svg?raw=true">
+    <img alt="Animação de cobra no grid de contribuições do GitHub" src="https://github.com/salgadu/salgadu/blob/output/github-contribution-grid-snake.svg?raw=true">
+  </picture>
 </p>
